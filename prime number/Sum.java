@@ -20,7 +20,6 @@ public class Sum
 	            isprime=true;
 	    else{
             for(int i=2;i<n;i++){
-                isprime=false;
 	            if(n%i==0){
 	                isprime = false;
 	                break;
